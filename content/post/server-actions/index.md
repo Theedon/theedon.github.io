@@ -1,7 +1,7 @@
 ---
 title: "Beyond API Routes: Exploring the Potential of Server Actions in Next.js"
 # summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2024-04-01
+date: 2024-07-01
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
