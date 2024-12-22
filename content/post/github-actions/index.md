@@ -1,5 +1,5 @@
 ---
-title: "Effortless Efficiency: Automating Workflows with GitHub Actions
+title: "Effortless Efficiency: Automating Workflows with GitHub Actions"
 # summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2024-04-01
 
