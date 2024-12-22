@@ -12,7 +12,11 @@ authors:
   - admin
 
 tags:
-  - programming
+  - React
+  - Server Components
+  - Client Components
+  - Asynchronous Programming
+  - Web Development
 ---
 
 ### What are Components
@@ -112,6 +116,7 @@ While we currently cannot have asynchronous client components, there are alterna
     );
   }
   ```
+
 - **Server Components:** The ability to use server components asynchronously means that they should usually be used to perform such operations that require asynchronous capabilities whenever possible. An example is fetching data from an API inside an asynchronous server component and then passing that data as a prop to a client component that is nested inside the server component. This also reduces the load on the client.
 
 ```typescript

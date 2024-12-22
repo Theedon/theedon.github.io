@@ -13,9 +13,10 @@ authors:
 
 tags:
   - AI
-  - Langchain
+  - Olympics
   - FastAPI
-  - LLM
+  - Langchain
+  - LLaMA
 ---
 
 ### Introduction

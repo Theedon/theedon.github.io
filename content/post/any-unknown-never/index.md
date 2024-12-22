@@ -12,7 +12,10 @@ authors:
   - admin
 
 tags:
-  - programming
+  - TypeScript
+  - JavaScript
+  - Programming
+  - Type Safety
 ---
 
 ### Introduction

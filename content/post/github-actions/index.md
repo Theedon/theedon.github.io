@@ -12,7 +12,10 @@ authors:
   - admin
 
 tags:
-  - programming
+  - GitHub Actions
+  - Automation
+  - Continuous Integration
+  - Continuous Deployment
 ---
 
 Every software project either small, medium sized or large need to have some development workflows. Those workflows are the steps that a developer takes to plan, test, build and deploy software. The advantages of workflows really come into light when developers work in teams, they can be thought of as a framework that promotes efficiency and boosts collaboration in a project.

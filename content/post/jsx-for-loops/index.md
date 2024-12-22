@@ -12,7 +12,12 @@ authors:
   - admin
 
 tags:
-  - programming
+  - JSX
+  - React
+  - JavaScript
+  - TypeScript
+  - Programming
+  - Web Development
 ---
 
 JavaScript XML (**JSX**) is a syntax extension that allows for developers to write components and elements in a similar way to HTML inside of JavaScript, the elements are very similar to HTML and they can easily be converted to JavaScript. The example below shows how is converted to JavaScript using the **React.createElement()** function

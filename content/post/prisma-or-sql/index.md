@@ -12,7 +12,11 @@ authors:
   - admin
 
 tags:
-  - programming
+  - SQL
+  - Prisma
+  - ORM
+  - Database
+  - TypeScript
 ---
 
 ### Introduction

@@ -12,7 +12,10 @@ authors:
   - admin
 
 tags:
-  - programming
+  - Next.JS
+  - Actions
+  - APIs
+  - RPC
 ---
 
 Some of the most common things to build in a web application are forms, and it is common practice to create API endpoints in order to be able to perform the data mutations after submission. The invention of Server Actions means we do not have to go through that extra step, but we can instead call a function that can handle it. Excited? Let me walk you through it. Server Actions are simply asynchronous functions in Next.js (a framework built on the React library) that let us perform some functions on the server directly from within our code without having to create API endpoints. It helps to be familiar with Remote Procedure Calls (RPC) when trying to understand Actions as they basically have the same concepts. RPCs are protocols that allow you to make a call on one machine, that call seems like a local call, but it is in fact executed on another machine on that network. This makes it easy to achieve seamless interaction between multiple components of a system that might be shared across multiple nodes, like in the case of distributed computing.
