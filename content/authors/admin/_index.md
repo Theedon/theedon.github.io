@@ -177,31 +177,60 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: "2023-11-25"
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: "2023-07-01"
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: "Object-Oriented Programming in R"
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: "2023-01-21"
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: "Neural Networks and Deep Learning"
+    url: "https://www.deeplearning.ai/"
+    date: "2024-01-01"
+    awarder: "DeepLearning.AI"
+    icon: "default"
+    summary: "Gained a deep understanding of neural networks and their practical applications, further enhancing my knowledge in deep learning techniques."
+  - title: "FREE AI Class in Every City [AI Invasion]"
+    url: "https://zindi.africa/"
+    date: "2022-01-01"
+    awarder: "Zindi Africa"
+    icon: "default"
+    summary: "Participated in an introductory AI class, where I learned fundamental AI concepts and engaged with the community to solve real-world problems using AI tools."
+  - title: "UmojaHack Africa 2022: Monthly Insurance Claim Prediction Challenge"
+    url: "https://zindi.africa/"
+    date: "2022-03-15"
+    awarder: "Zindi Africa"
+    icon: "default"
+    summary: "Collaborated on predicting monthly insurance claims using machine learning techniques in a competitive hackathon setting, enhancing my practical data science skills."
+  - title: "DSN AI Bootcamp Qualification Hackathon"
+    url: "https://www.datasciencenigeria.org/"
+    date: "2021-06-01"
+    awarder: "Data Science Nigeria"
+    icon: "default"
+    summary: "Qualified for the AI Bootcamp by solving data science challenges that tested my analytical and machine learning expertise."
+  - title: "Data Science Nigeria Bank Campaign Subscriptions"
+    url: "https://www.datasciencenigeria.org/"
+    date: "2021-08-01"
+    awarder: "Data Science Nigeria"
+    icon: "default"
+    summary: "Worked on predictive modeling to optimize bank campaign subscriptions, developing robust solutions using machine learning frameworks."
+  - title: "CCNA: Introduction to Networks"
+    url: "https://www.netacad.com/"
+    date: "2022-09-01"
+    awarder: "CISCO"
+    icon: "default"
+    summary: "Gained foundational knowledge in networking concepts, including LANs, WANs, and the architecture of modern networking systems."
+  - title: "CCNA: Switching, Routing, and Wireless Essentials"
+    url: "https://www.netacad.com/"
+    date: "2022-12-01"
+    awarder: "CISCO"
+    icon: "default"
+    summary: "Learned advanced concepts in switching, routing, and wireless networking, enabling me to design and manage complex networks."
+  - title: "CCNA: Enterprise Networking, Security, and Automation"
+    url: "https://www.netacad.com/"
+    date: "2023-05-01"
+    awarder: "CISCO"
+    icon: "default"
+    summary: "Mastered enterprise-level networking, including network security, automation, and advanced configurations, preparing me for real-world implementations."
+  - title: "AI Augmented Professional Development Skills in the Digital Age"
+    url: "https://www.alxafrica.com/"
+    date: "2024-04-01"
+    awarder: "ALX"
+    icon: "default"
+    summary: "Developed advanced professional skills focused on AI and digital tools, enhancing my capability to adapt to the evolving tech landscape."
 ---
 
 ## About Me
