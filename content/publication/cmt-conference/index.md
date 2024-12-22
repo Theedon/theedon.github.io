@@ -34,7 +34,7 @@ links:
   - name: Link
     url: https://fjpas.fuoye.edu.ng/index.php/fjpas/issue/view/9
 url_pdf: https://fjpas.fuoye.edu.ng/index.php/fjpas/article/view/191/140
-url_code: "https://github.com/theedon"
+url_code: "https://github.com/Theedon/DeepCancerSegmentation"
 # url_dataset: "#"
 # url_poster: "#"
 # url_project: ""
