@@ -12,7 +12,10 @@ authors:
   - admin
 
 tags:
-  - programming
+  - AI
+  - Langchain
+  - FastAPI
+  - LLM
 ---
 
 ### Introduction
