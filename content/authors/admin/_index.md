@@ -24,8 +24,12 @@ role: Full Stack Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Stekkar AI Labs (African AI Foundation)
+  - name: Stellar AI Labs (African AI Foundation)
     url: http://stellar-ai-labs.com/
+  - name: Black in AI
+    url: https://www.blackinai.org/
+  - name: Jamb Prep Academy
+    url: https://jambprepacademy.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
